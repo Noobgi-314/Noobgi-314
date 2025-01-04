@@ -23,4 +23,5 @@
 <!---
 Noobgi-314/Noobgi-314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+add links of linkedin and youtube 
 --->
