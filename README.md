@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vashishth joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vashishth joshi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/16pigamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="16pigamer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vashishth-j-510160326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vashishth joshi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@16piGamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="16pigamer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
