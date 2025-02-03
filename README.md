@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vashishthjoshi4@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGWbPWmvEo/AL0yFyDMok747V5N7Ekaew/edit](https://www.canva.com/design/DAGWbPWmvEo/AL0yFyDMok747V5N7Ekaew/edit)
+- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1M_7UnWg9lS5peJF3AGeTUwrAf8pVAhS0/view?usp=drive_link)
 
 - ⚡ Fun fact **Teamwork makes the dream work... or does it? 🤔 Fun fact: I’ve realized that when you’re doing 80% of the work but sharing 100% of the credit, it’s time to reevaluate. Next time, I might skip the team setup and work solo for better focus, control, and outcomes. Sometimes, working alone can lead to sharper execution and a more satisfying end result. 💼💪 But hey, it’s all a learning experience! Whether solo or in a team, the goal is always to bring the best to the table. 🚀 Have you ever faced this in your projects? Share your thoughts!**
 
