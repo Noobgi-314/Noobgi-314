@@ -16,13 +16,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noobgi-314](https://github.com/Noobgi-314)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/vashishth-j-510160326](www.linkedin.com/in/vashishth-j-510160326)
-
 - 💬 Ask me about **Coding & Web Development Enthusiast & Technology & Gaming**
 
-- 📫 How to reach me **vashishthjoshi4@gmail.com**
+- 📫 How to reach me **gamersnoob1603@gmail.com**
 
-- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1FvsHrsi69NBofBtsPsj9jotoHQIQtr4N/view?usp=drive_link)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Teamwork makes the dream work... or does it? 🤔 Fun fact: I’ve realized that when you’re doing 80% of the work but sharing 100% of the credit, it’s time to reevaluate. Next time, I might skip the team setup and work solo for better focus, control, and outcomes. Sometimes, working alone can lead to sharper execution and a more satisfying end result. 💼💪 But hey, it’s all a learning experience! Whether solo or in a team, the goal is always to bring the best to the table. 🚀 Have you ever faced this in your projects? Share your thoughts!**
 
