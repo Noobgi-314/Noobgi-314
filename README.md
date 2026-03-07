@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vashishth Joshi</h1>
+<h1 align="center">Hi 👋, I'm Noobgi</h1>
 <h3 align="center">Computer Teacher | Coding & Web Development Enthusiast | Engaging Young Minds in Technology & Gaming</h3>
 
 - 🔭 What I’m Up To Right Now: **Bringing ideas to life with Scratch, exploring the art of game development. 🎮 Leveling up with C# and Java to dive into advanced game mechanics and backend systems. 🚀 Stay tuned—exciting projects are on the way!**
